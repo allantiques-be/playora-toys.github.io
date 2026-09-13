@@ -1,0 +1,9 @@
+{
+  "name": "PLAYORA Toys",
+  "short_name": "PLAYORA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#087fe8",
+  "background_color": "#f2faff",
+  "icons": []
+}
