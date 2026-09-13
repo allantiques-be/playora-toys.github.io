@@ -30,3 +30,7 @@ Settings → Pages → Deploy from a branch → main → / (root)
 
 ## Notes
 Product names, prices, ratings, reviews, availability, age guidance and merchandising content may be demonstration data. Before commercial publication, verify actual product specifications, age recommendations, safety information, warranties, policies, photography rights and third-party assets.
+
+
+## V2 Visual Refresh
+The storefront uses a fresh rounded family-friendly layout, new hero photography, and clean standalone toy product photos so each item is clearly visible without embedded page UI.
