@@ -32,3 +32,7 @@ https://allantiques-be.github.io/playora-toys/
 
 ## Notes
 Product names, prices, ratings, reviews, availability, age guidance and merchandising content may be demonstration data. Verify actual product specifications, manufacturer information, age recommendations, safety information, pricing, policies and third-party asset rights before commercial publication.
+
+
+## Logo Fix
+The header logo is now rendered with a dedicated contain-based image box so the entire PLAYORA Toys mark remains visible without vertical or horizontal cropping.
