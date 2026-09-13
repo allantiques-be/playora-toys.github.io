@@ -1,19 +1,23 @@
-# PLAYORA Toys
+# PLAYORA Toys — V3
 
 **Play Today. Brighter Tomorrow.**
 
-A bright, family-friendly toy storefront concept with **112 products** across **14 categories**.
+A playful toy storefront with a redesigned boutique-style layout, full logo presentation, stronger product variety, clean product photography and family-friendly discovery paths.
 
 ## Highlights
-- Building sets, dolls & figures, RC & vehicles, outdoor toys, educational products, STEM, games, arts & crafts, plush, baby/toddler, pretend play, puzzles, sports and party toys
-- Colorful, playful ecommerce design
-- Search, category filters and sorting
+- 170 catalog products
+- 16 featured discovery categories
+- Building sets, dolls, RC, outdoor, STEM, arts & crafts, plush, musical toys, ride-ons, pretend play, puzzles, sports, magic & science, bath toys, collectibles and trains
+- New 5-column featured catalog format on desktop
+- Full PLAYORA logo shown with `object-fit: contain`
+- Shop by age
+- Featured collections and editorial play sections
+- Search, category filtering and sorting
 - Product detail pages
 - Wishlist and shopping cart demo
-- Featured collections and gift discovery
-- Responsive desktop/mobile experience
-- Realistic product imagery bundled locally
-- Customer support and policy pages
+- Dedicated support
+- Responsive mobile layout
+- Local product images
 - GitHub Pages ready
 
 ## Support
@@ -26,11 +30,5 @@ The phone number is a demo/example contact and should be replaced before commerc
 ## GitHub Pages
 https://allantiques-be.github.io/playora-toys/
 
-Settings → Pages → Deploy from a branch → main → / (root)
-
 ## Notes
-Product names, prices, ratings, reviews, availability, age guidance and merchandising content may be demonstration data. Before commercial publication, verify actual product specifications, age recommendations, safety information, warranties, policies, photography rights and third-party assets.
-
-
-## V2 Visual Refresh
-The storefront uses a fresh rounded family-friendly layout, new hero photography, and clean standalone toy product photos so each item is clearly visible without embedded page UI.
+Product names, prices, ratings, reviews, availability, age guidance and merchandising content may be demonstration data. Verify actual product specifications, manufacturer information, age recommendations, safety information, pricing, policies and third-party asset rights before commercial publication.
