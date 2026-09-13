@@ -36,3 +36,7 @@ Product names, prices, ratings, reviews, availability, age guidance and merchand
 
 ## Logo Fix
 The header logo is now rendered with a dedicated contain-based image box so the entire PLAYORA Toys mark remains visible without vertical or horizontal cropping.
+
+
+## V4 Logo Correction
+The header now has a dedicated 90px logo frame with forced `object-fit: contain`, preventing any cropping of the complete PLAYORA Toys logo at desktop and mobile widths.
